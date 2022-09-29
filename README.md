@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media3.giphy.com/media/ko7twHhomhk8E/giphy.gif?cid=ecf05e479wedxrbp4vkb1lleiu7sdy9dn5dhubepr3nxdzbw&rid=giphy.gif&ct=g">
+  <img src="https://media3.giphy.com/media/ko7twHhomhk8E/giphy.gif?cid=ecf05e479wedxrbp4vkb1lleiu7sdy9dn5dhubepr3nxdzbw&rid=giphy.gif&ct=g" width="100" height="100">
 </p>
 
 <h1 align="center">Hi 👋, I'm Deepali Sethia</h1>
