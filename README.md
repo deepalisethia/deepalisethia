@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Deepali Sethia</h1>
 <h3 align="center">I'm a Backend Developer from Southern California</h3>
 
+<a href="https://raw.githubusercontent.com/demartini/demartini/master/code.gif"></a>
+
 - 🌱 I’m currently learning **JS, Python**
 
 - 📝 Technical Skills: **Java | Spring Boot | DynamoDB | AWS Lambda | API Gateway | Cloudformation**
