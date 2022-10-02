@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JS, Python**
 
-- 📝 Technical Skills: **Java | Spring Boot | DynamoDB | AWS Lambda | API Gateway | Cloudformation**
+- 📝 Technical Skills: **Java | Spring Boot | Amazon DynamoDB | AWS Lambda | AWS API Gateway | CloudFormation**
 
 - 📫 How to reach me **deepali.sethia@gmail.com**
 
